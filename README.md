@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @antharyarao
-- 👀 I’m interested in Web development, Robotic Process Automation (RPA), and AI/ML technologies.
-- 😄 Pronouns: she/her
 - 📫 How to reach me: raoantharya@gmail.com
