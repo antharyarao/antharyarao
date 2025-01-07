@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <strong>🔗 Connect with me:</strong>
+  <strong>🔗 Connect with me:</strong> 
   <a href="https://linkedin.com/in/antharya-rao" target="blank">
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="LinkedIn" 
-      height="30" 
-      width="40" />
+      height="20" 
+      width="25" />
   </a>
 </p>
