@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>📫 How to reach me:</strong> 
-  <a href="mailto:antharyarao.email@gmail.com">antharyarao.email@gmail.com</a>
+  <a href="mailto:raoantharya@gmail.com">raoantharya@gmail.com</a>
 </p>
 
 <p align="center">
