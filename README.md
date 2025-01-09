@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antharya Rao</h1>
-<h3 align="center">Bachelor of Computer Science and Engineering</h3>
+<h3 align="center">Bachelor of Technology in Computer Science and Engineering</h3>
 
 <p align="center">
   <strong>📫 How to reach me:</strong> 
